@@ -13,5 +13,7 @@ $ npm install
 ### Running
 ```bash
 $ npm start   
+
+# Open browser to http://localhost:8080/
 ```
-Open browser to http://localhost:8080/
+
