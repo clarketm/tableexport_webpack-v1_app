@@ -4,6 +4,8 @@
   "description": "A simple app demonstrating the use of TableExport and Webpack v1.",
   "main": "bundle.js",
   "scripts": {
+    "build": "webpack",
+    "prestart": "npm run build",
     "start": "webpack-dev-server --progress --colors --watch"
   },
   "keywords": [
