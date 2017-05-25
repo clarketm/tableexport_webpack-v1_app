@@ -2,6 +2,7 @@
 
 This project is a simple app demonstrating the use of [TableExport](https://github.com/clarketm/TableExport) and [Webpack 1](http://webpack.github.io/docs/). It includes a sample project that you can use as a skeleton (or template) to get started.
 
+<br>
 ### Checkout the [demo](https://www.travismclarke.com/te_wp1_app/)!
 <br>
 
